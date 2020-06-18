@@ -1,4 +1,3 @@
-Hello,
 This folder contains the first Task of the Artificial Intelligent path in Smart Methods company's summer training.
 
 The task is:
