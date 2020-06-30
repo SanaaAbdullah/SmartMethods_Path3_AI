@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="Robot_Controller_style.css">
+	<title>Controller Motion</title>
+</head>
+<body>
+
+
+	<div class="container2">
+			
+	</div>
+
+	<div class="button2">
+		<button class="backC" onclick="history.back()"> Return to the controller </button>		
+	</div>
+
+</body>
+</html>
